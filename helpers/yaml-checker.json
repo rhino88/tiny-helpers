@@ -1,0 +1,12 @@
+{
+  "name": "YAML Checker",
+  "desc": "Provides syntax highlighting and validation for YAML content.",
+  "url": "https://yamlchecker.com/",
+  "tags": [
+    "Misc"
+  ],
+  "maintainers": [
+    "rhino88"
+  ],
+  "addedAt": "2020-07-22"
+}
